@@ -10,3 +10,4 @@
 {"ts":"2026-04-20T11:47:29.0666602Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
 {"ts":"2026-04-20T11:47:29.0717189Z","step":"parse","level":"info","msg":"Writing output files to D:\\Hyatt Regency Kochi Room BookingSystem\\noel reg...","meta":null}
 {"ts":"2026-04-20T11:47:29.1226692Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-20T11:47:29.2831086Z","step":"analysis","level":"info","msg":"Analysis started","meta":null}
