@@ -1,0 +1,27 @@
+{
+  "id": "9a92948d-3134-41a1-8345-b5944e131145",
+  "name": "VB6hotel",
+  "description": "vb6hotel",
+  "outputFolder": "D:\\sample target",
+  "minimumZ3Score": null,
+  "createdAt": "2026-04-16T10:12:44.3860052Z",
+  "updatedAt": "2026-04-17T04:47:35.3227286Z",
+  "stepArtifacts": {
+    "parse": [
+      { "type": "uast",            "path": "D:\\sample target\\source_uast.json",   "createdAt": "2026-04-14T18:33:00Z" },
+      { "type": "db_schema",       "path": "D:\\sample target\\database_uast.json", "createdAt": "2026-04-14T18:33:00Z" },
+      { "type": "crystal_reports", "path": "D:\\sample target\\report_uast.json",   "createdAt": "2026-04-14T18:33:00Z" }
+    ]
+  },
+  "stepStates": {
+    "parse": "completed",
+    "analysis": "in-progress",
+    "prd": "locked",
+    "verification": "locked",
+    "ux": "locked",
+    "client-review": "locked",
+    "final-verify": "locked",
+    "tech-stack": "locked",
+    "spec-files": "locked"
+  }
+}

@@ -1,0 +1,91 @@
+{"ts":"2026-04-16T10:12:44.3990798Z","step":"project","level":"info","msg":"Project created","meta":null}
+{"ts":"2026-04-16T10:21:50.0578410Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T10:21:50.0589958Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T10:23:29.9856902Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T10:23:38.6403929Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T10:23:38.6409375Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-16T10:23:43.2205849Z","step":"parse","level":"error","msg":"Failed to extract Access schema from \u0027Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\\git\\hotellegacy\\star-hotel-vb6\\Data\\DemoData.mdb;\u0027: Not a valid password.","meta":null}
+{"ts":"2026-04-16T10:24:50.5246051Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T10:24:50.5257378Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T10:24:50.5261331Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T10:24:56.6327623Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T10:24:56.6333193Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-16T10:24:56.6429631Z","step":"parse","level":"error","msg":"Failed to extract Access schema from \u0027Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\\git\\hotellegacy\\star-hotel-vb6\\Data\\DemoData.mdb;\u0027: Not a valid password.","meta":null}
+{"ts":"2026-04-16T10:40:46.9077622Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T10:40:46.9124039Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T10:40:46.9161649Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T10:40:55.2857321Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T10:40:55.2864327Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T10:40:55.2886180Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam...","meta":null}
+{"ts":"2026-04-16T10:40:55.3002791Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T10:46:51.9630397Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T10:46:51.9649505Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T10:47:09.8564825Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T10:47:12.0682010Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T10:47:12.0687493Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T10:47:12.0949754Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T10:47:12.0952406Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T10:47:12.0961678Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam\\sample2...","meta":null}
+{"ts":"2026-04-16T10:47:12.1041259Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T10:47:48.4979733Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T10:47:48.4988697Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T10:49:09.0724339Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T10:49:13.4191259Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T10:49:13.4197157Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T10:49:13.4728469Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T10:49:13.4732555Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T10:49:13.4742363Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam\\sample2...","meta":null}
+{"ts":"2026-04-16T10:49:13.5003315Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T10:49:31.1498549Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T10:49:31.1507582Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T10:50:21.1165273Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T10:50:26.1136373Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T10:50:26.1141184Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T10:50:26.1395730Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T10:50:26.1399460Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T10:50:26.1407688Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam\\sample2...","meta":null}
+{"ts":"2026-04-16T10:50:26.1572545Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T11:25:05.7889034Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T11:25:05.8006906Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T11:25:05.8073856Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T11:25:17.1846193Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T11:25:17.1852405Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-16T11:25:18.9847202Z","step":"parse","level":"info","msg":"Extracted 12 database objects.","meta":null}
+{"ts":"2026-04-16T11:25:18.9852405Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T11:25:19.0499303Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T11:25:19.0506556Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T11:25:19.0559196Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam...","meta":null}
+{"ts":"2026-04-16T11:25:19.1058170Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T11:47:04.5913186Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T11:47:04.5961207Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T11:47:04.5985780Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T11:47:15.8134283Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T11:47:15.8143392Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-16T11:47:16.6884181Z","step":"parse","level":"info","msg":"Extracted 12 database objects.","meta":null}
+{"ts":"2026-04-16T11:47:16.6889292Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T11:47:16.7312852Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T11:47:16.7317788Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T11:47:16.7351558Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam...","meta":null}
+{"ts":"2026-04-16T11:47:16.7648424Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T12:18:36.9812326Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T12:18:36.9869484Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T12:18:36.9903879Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T12:18:48.9821444Z","step":"parse","level":"info","msg":"Parsed 325 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T12:18:48.9827417Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-16T12:18:49.9732779Z","step":"parse","level":"info","msg":"Extracted 12 database objects.","meta":null}
+{"ts":"2026-04-16T12:18:49.9742394Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T12:18:50.0437770Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T12:18:50.0442003Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T12:18:50.0480600Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam\\sample2...","meta":null}
+{"ts":"2026-04-16T12:18:50.0958415Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
+{"ts":"2026-04-16T16:45:50.3388026Z","step":"parse","level":"info","msg":"[Project 9a92948d-3134-41a1-8345-b5944e131145] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-16T16:45:50.3529512Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-16T16:45:50.3683999Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-16T16:46:19.7330291Z","step":"parse","level":"info","msg":"Parsed 23 VB6 declarations.","meta":null}
+{"ts":"2026-04-16T16:46:19.7342521Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-16T16:46:23.3444466Z","step":"parse","level":"info","msg":"Extracted 12 database objects.","meta":null}
+{"ts":"2026-04-16T16:46:23.3461372Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-16T16:46:23.4708238Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-16T16:46:23.4721254Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-16T16:46:23.4829446Z","step":"parse","level":"info","msg":"Writing output files to D:\\sample target\\sam\\sample2...","meta":null}
+{"ts":"2026-04-16T16:46:23.7082875Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
