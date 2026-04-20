@@ -11,3 +11,9 @@
 {"ts":"2026-04-20T11:47:29.0717189Z","step":"parse","level":"info","msg":"Writing output files to D:\\Hyatt Regency Kochi Room BookingSystem\\noel reg...","meta":null}
 {"ts":"2026-04-20T11:47:29.1226692Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
 {"ts":"2026-04-20T11:47:29.2831086Z","step":"analysis","level":"info","msg":"Analysis started","meta":null}
+{"ts":"2026-04-20T11:47:29.6887106Z","step":"analysis","level":"info","msg":"deadCode pass complete \u2014 142 findings","meta":null}
+{"ts":"2026-04-20T11:47:29.6952247Z","step":"analysis","level":"info","msg":"dbInjectionRisk pass complete \u2014 0 findings","meta":null}
+{"ts":"2026-04-20T11:47:29.7089533Z","step":"analysis","level":"info","msg":"totalPaths pass complete \u2014 325 findings","meta":null}
+{"ts":"2026-04-20T11:47:29.7327580Z","step":"analysis","level":"info","msg":"edgeCases pass complete \u2014 181 findings","meta":null}
+{"ts":"2026-04-20T11:47:29.7526868Z","step":"analysis","level":"info","msg":"ghostLogic pass complete \u2014 0 findings","meta":null}
+{"ts":"2026-04-20T11:47:29.7691778Z","step":"analysis","level":"info","msg":"Analysis complete \u2014 1 files analysed","meta":null}
