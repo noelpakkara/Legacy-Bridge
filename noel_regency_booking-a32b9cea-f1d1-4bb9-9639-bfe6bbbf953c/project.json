@@ -5,7 +5,7 @@
   "outputFolder": "D:\\Hyatt Regency Kochi Room BookingSystem\\noel reg",
   "minimumZ3Score": null,
   "createdAt": "2026-04-20T11:46:27.3929877Z",
-  "updatedAt": "2026-04-20T12:27:19.7171248Z",
+  "updatedAt": "2026-04-20T12:32:51.1953962Z",
   "stepStates": {
     "parse": "completed",
     "analysis": "in-progress",
@@ -14,8 +14,8 @@
     "ux": "available",
     "client-review": "available",
     "final-verify": "available",
-    "tech-stack": "available",
-    "spec-files": "locked"
+    "tech-stack": "completed",
+    "spec-files": "available"
   },
   "stepArtifacts": {
     "parse": [
@@ -50,6 +50,6 @@
       }
     ]
   },
-  "techStack": null,
+  "techStack": "react-nodejs-postgresql",
   "sourceStack": null
 }
