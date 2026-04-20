@@ -5,10 +5,10 @@
   "outputFolder": "D:\\Hyatt Regency Kochi Room BookingSystem",
   "minimumZ3Score": null,
   "createdAt": "2026-04-20T11:11:54.3219377Z",
-  "updatedAt": "2026-04-20T11:25:22.5110191Z",
+  "updatedAt": "2026-04-20T11:25:22.6772844Z",
   "stepStates": {
     "parse": "completed",
-    "analysis": "available",
+    "analysis": "in-progress",
     "prd": "locked",
     "verification": "locked",
     "ux": "locked",
