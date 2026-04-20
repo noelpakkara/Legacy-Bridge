@@ -1,1 +1,12 @@
 {"ts":"2026-04-20T11:46:27.4156740Z","step":"project","level":"info","msg":"Project created","meta":null}
+{"ts":"2026-04-20T11:47:16.7797471Z","step":"parse","level":"info","msg":"[Project a32b9cea-f1d1-4bb9-9639-bfe6bbbf953c] Starting parse pipeline...","meta":null}
+{"ts":"2026-04-20T11:47:16.7813413Z","step":"parse","level":"info","msg":"Loading source files...","meta":null}
+{"ts":"2026-04-20T11:47:16.7855552Z","step":"parse","level":"info","msg":"Parsing VB6 source files...","meta":null}
+{"ts":"2026-04-20T11:47:28.0313555Z","step":"parse","level":"info","msg":"Parsed 23 VB6 declarations.","meta":null}
+{"ts":"2026-04-20T11:47:28.0321861Z","step":"parse","level":"info","msg":"Extracting access schema...","meta":null}
+{"ts":"2026-04-20T11:47:28.9951357Z","step":"parse","level":"info","msg":"Extracted 12 database objects.","meta":null}
+{"ts":"2026-04-20T11:47:28.9958422Z","step":"parse","level":"info","msg":"Scanning for Crystal Reports (.rpt) files...","meta":null}
+{"ts":"2026-04-20T11:47:29.0657622Z","step":"parse","level":"info","msg":"Found 15 Crystal Reports.","meta":null}
+{"ts":"2026-04-20T11:47:29.0666602Z","step":"parse","level":"info","msg":"Converting to Babelfish UAST...","meta":null}
+{"ts":"2026-04-20T11:47:29.0717189Z","step":"parse","level":"info","msg":"Writing output files to D:\\Hyatt Regency Kochi Room BookingSystem\\noel reg...","meta":null}
+{"ts":"2026-04-20T11:47:29.1226692Z","step":"parse","level":"info","msg":"Parse completed successfully.","meta":null}
