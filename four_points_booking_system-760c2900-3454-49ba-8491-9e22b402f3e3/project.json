@@ -5,10 +5,10 @@
   "outputFolder": "D:\\Hyatt Regency Kochi Room BookingSystem",
   "minimumZ3Score": null,
   "createdAt": "2026-04-20T11:11:54.3219377Z",
-  "updatedAt": "2026-04-20T11:11:54.3219389Z",
+  "updatedAt": "2026-04-20T11:14:46.4337129Z",
   "stepStates": {
-    "parse": "available",
-    "analysis": "locked",
+    "parse": "completed",
+    "analysis": "in-progress",
     "prd": "locked",
     "verification": "locked",
     "ux": "locked",
@@ -17,7 +17,25 @@
     "tech-stack": "locked",
     "spec-files": "locked"
   },
-  "stepArtifacts": {},
+  "stepArtifacts": {
+    "parse": [
+      {
+        "type": "uast",
+        "path": "C:\\LegacyBridgeData\\four_points_booking_system-760c2900-3454-49ba-8491-9e22b402f3e3\\parse\\project_uast_20260420_1114.json",
+        "createdAt": "2026-04-20T11:14:21.9790208Z"
+      },
+      {
+        "type": "db_schema",
+        "path": "C:\\LegacyBridgeData\\four_points_booking_system-760c2900-3454-49ba-8491-9e22b402f3e3\\parse\\database_uast_20260420_1114.json",
+        "createdAt": "2026-04-20T11:14:21.9790208Z"
+      },
+      {
+        "type": "crystal_reports",
+        "path": "C:\\LegacyBridgeData\\four_points_booking_system-760c2900-3454-49ba-8491-9e22b402f3e3\\parse\\reports_uast_20260420_1114.json",
+        "createdAt": "2026-04-20T11:14:21.9790208Z"
+      }
+    ]
+  },
   "techStack": null,
   "sourceStack": null
 }
